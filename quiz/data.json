@@ -1,0 +1,44 @@
+{
+    "question": [
+      "Q1. SQL stands for?",
+      "Q2. Which of the following supports indexing?",
+      "Q3. List items are?",
+      "Q4. In HtML which tag is used to define paragraph?",
+      "Q5. Which of the following defines MySQL?"
+    ],
+    "answer": [
+      1,
+      1,
+      1,
+      1,
+      3
+    ],
+    "options": [
+  
+      ["Structured Query Language",
+        "Syntax Query Language",
+        "A & B",
+        "None of the above"
+      ],
+      ["List",
+        "Dictonaries",
+        "set",
+        "None supports"
+      ],
+      ["Mutuable",
+        "Immutable",
+        "No items",
+        "None of the above"
+      ],
+      ["<p>",
+        "<h1>",
+        "<h2>",
+        "None of the above"
+      ],
+      ["programming Language",
+        "Query Language",
+        "Relational Database Management system",
+        "None of the above"
+      ]
+    ]
+  }
